@@ -1,1 +1,1 @@
-# Arvore-de-busca-bin-ria
+# Arvore-de-busca-binaria
